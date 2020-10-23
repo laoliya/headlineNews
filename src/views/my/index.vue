@@ -1,5 +1,7 @@
 <template>
-  <div>my</div>
+  <div>
+    <router-link to="login">跳转</router-link>
+  </div>
 </template>
 
 <script>
